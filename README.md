@@ -158,14 +158,5 @@ Bachelor of Engineering – Computer Software Engineering
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachishelake1312&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachishelake1312&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachishelake1312&layout=compact&theme=tokyonight" />
-</p>
----
-
 <div align="center">
   <i>"Build with purpose. Learn continuously. Solve meaningfully." 🚀<br>L
