@@ -1,47 +1,50 @@
 <h1 align="center">Hi 👋, I'm Prachi Shelake</h1>
-<h3 align="center">A passionate about software Development, problem solving ,emerging Technologies , IOT and AI-driven solution </h3>
+<h3 align="center">A passionate Computer Engineering student focused on Software Development, AI-powered Applications, IoT Systems & Problem Solving</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mentor+%26+Technical+Trainer;+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Web+Developer;AI+%26+IoT+Enthusiast;Hackathon+Competitor;Event+Coordinator+%26+Leader" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:ASPATIL2904@GMAIL.COM">
+  <a href="mailto:prachishelake2905@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/iam_adi29">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  <a href="https://linkedin.com/in/prachishelake">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Add your LinkedIn or Twitter here if you want! -->
-  <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+---
 
 ## 💫 About Me
 
-I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+I'm **Prachi Shelake**, a Computer Engineering student at Trinity College of Engineering & Research (TCOER), Pune, with hands-on experience in Python, Java, C, and web development. I love building AI-powered applications, working on IoT systems, and solving real-world problems through technology.
 
-- 🏢 I currently work as a **Mentor & Trainer**, delivering technical guidance and project-based learning under **DevineTech Solutions**, where I focus on practical development, architecture clarity, and industry-ready skills.
-- 💼 Alongside this, I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
+- 🎓 Pursuing **B.E. in Computer Software Engineering** at TCOER, Pune
+- 🤖 Passionate about **AI chatbot integration**, data analysis, and academic data processing
+- 🏆 National-level **hackathon participant** and multi-time **intra-college hackathon winner**
+- 🎪 Coordinated **technical events with 120+ participants** at college fests
+- 📜 Earned **50+ certificates** in hackathons, debates, and event coordination
 
 ### 💻 What I Do
-- 🌐 Full Stack Web Development (Frontend & Backend)
-- 🎓 Mentoring & Training aspiring developers
-- 🏗️ Project Architecture & System Design
-- 🔬 Research-oriented and problem-solving based development
-- 🤝 Guiding interns on real-world applications and best practices
+- 🌐 Full Stack Web Development (HTML, CSS, JavaScript)
+- 🤖 AI-powered application development & chatbot integration
+- 🌿 IoT system design and sensor data analysis
+- 🏗️ Data structures, algorithms, and system design
+- 🤝 Team leadership, event coordination & mentoring
 
 ### 🚀 Interests
-- 🤖 AI-assisted systems & automation
-- 🧩 Clean code, system thinking, and product mindset
-- 📚 Teaching through real projects
+- 🧠 Artificial Intelligence & Machine Learning
+- 📡 Internet of Things (IoT)
+- 🏆 Competitive programming & hackathons
+- 🔬 Research-oriented and problem-solving based development
+- 📚 Teaching and mentoring peers
 
 ### 📌 Philosophy
-> *"Build with purpose. Learn continuously. Teach what you master."*
+> *"Build with purpose. Learn continuously. Solve meaningfully."*
 
 <br>
 
@@ -49,92 +52,89 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <br>
-  <!-- Frontend & Backend -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <!-- AI & Data -->
+  <img src="https://img.shields.io/badge/AI%20Chatbot%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Chatbot" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis" />
   <br>
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-%23404d59.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <br>
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="AmazonDynamoDB" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <br>
-  <!-- Tools & Testing -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi" />
+  <!-- IoT & Hardware -->
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/IoT%20Systems-00979D?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="IoT" />
+  <br>
+  <!-- Tools & Version Control -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 <br>
 
-## 🚀 Upcoming Projects
+## 🚀 Projects
 
-1. **FLAT MATE** - [Upcoming]
-2. **NODE NET** - [Upcoming]
-3. **ENGIWORLD** - [Upcoming]
-4. **TEAMO :DIY STORE** - [Upcoming]
-5. **DAILY ROUTINE TRACKER** - [Upcoming]
+### 🤖 AI-Powered Student Mentorship & Academic Analysis Platform
+- Designed and developed a full-stack web application that **analyzes student academic performance** and delivers personalized career and study guidance via AI chatbot integration.
+- Implemented a data ingestion pipeline to process academic records and surface actionable insights for students and mentors.
+- Built responsive front-end using **HTML, CSS, and JavaScript**; integrated AI APIs for real-time mentorship recommendations.
+- Developed end-to-end during a competitive hackathon — from ideation to working prototype.
+
+### 🌿 IoT-Based Water Quality Monitoring System
+- Designed and developed an IoT system to **monitor real-time water quality** by measuring pH, turbidity, temperature, minerals, humidity, and TDS.
+- Integrated a sensor data pipeline to continuously collect, process, and classify water as **Safe or Unsafe** based on WHO and BIS safety thresholds.
+- Built a **dashboard interface** to visualize live sensor data and trigger automated alerts when parameters exceed safe limits.
+- Applied data analysis techniques to identify patterns and anomalies in water quality data, improving reliability of safety predictions.
 
 ---
 
-## 🛠️ IoT Projects (Patented)
+## 🏆 Hackathons & Achievements
 
-1. **WOMEN SAFETY DEVICE** 
-2. **IOT BASED NOVEL SCENNER**
+- 🥇 **Won multiple intra-college hackathons** — coordinated team efforts, delegated tasks, and ensured timely delivery
+- 🌐 **National-Level Hackathon Participant** — collaborated in cross-functional teams to build and present software prototypes
+- 🎪 **Technical Event Coordinator** — managed events with **120+ participants**, overseeing logistics, scheduling, and on-ground execution
+- 📜 **50+ Certificates** earned in extracurriculars including debates, hackathons, and event management
 
 ---
 
-## 📖 Author of Books
+## 🎓 Education
 
-1. **LAST SIX DAYS**
-2. **THE LOVE I CANT HOLD**
-3. **THE TUNNEL PARADOX**
-4. **I KILLED MYSELF**
-5. **THE FALL OF YASAKA**
-6. **IS THIS FIRST ?**
+**Trinity College of Engineering & Research (TCOER), Pune**  
+Bachelor of Engineering – Computer Software Engineering
 
+📚 *Relevant Coursework:* Data Structures & Algorithms · OOP · DBMS · Web Technologies · Discrete Mathematics · Project Management · Product Design · IoT · Microprocessor
+
+---
+
+## 📖 Certifications & Learning
+
+- Actively learning **Python, Java, C**, and web development through project-based learning and online platforms
+- Studying fundamentals of **Artificial Intelligence**, chatbot development, and database design concepts
+- Building personal projects to reinforce theoretical knowledge with hands-on implementation
+
+---
 
 ## 📊 GitHub Stats
 
-  
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachishelake&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=prachishelake&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachishelake&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
 
-
-
-<br>
-
-<!-- Optional: Snake Animation - You can easily set this up with a GitHub Action if you don't have it yet! -->
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>  -->
-
-
 ---
+
 <div align="center">
-  <i>"Programming isn't about what you know; it's about what you can figure out."<br>Let's build something amazing! 🚀</i>
+  <i>"Build with purpose. Learn continuously. Solve meaningfully." 🚀<br>Let's build something amazing together!</i>
 </div>
