@@ -165,7 +165,6 @@ Bachelor of Engineering – Computer Software Engineering
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachishelake1312&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachishelake1312&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 <div align="center">
