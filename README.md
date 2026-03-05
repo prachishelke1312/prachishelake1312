@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prachi Shelake</h1>
-<h3 align="center">A passionate Computer Engineering student focused on Software Development, AI-powered Applications, IoT Systems & Problem Solving</h3>
+<h3 align="center">Student | Aspiring Software Developer | Software Development · Problem Solving · IoT · AI-driven Solutions</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Enthusiastic AI+%26+IoT+Enthusiast;Hackathon+Competitor;Event+Coordinator+%26+Leader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Aspiring+Software+Developer;DSA+%7C+Java+%7C+Python+%7C+C;IoT+%26+AI-driven+Solutions;Hackathon+Competitor+%26+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,33 +15,41 @@
   <a href="https://linkedin.com/in/prachishelake">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://instagram.com/prach_i.29">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/prachishelake1312">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 ## 💫 About Me
 
-I'm **Prachi Shelake**, a Computer Engineering student at Trinity College of Engineering & Research (TCOER), Pune, with hands-on experience in Python, Java, C, and web development. I love building AI-powered applications, working on IoT systems, and solving real-world problems through technology.
+I'm **Prachi Shelake**, a Computer Engineering student at Trinity College of Engineering & Research (TCOER), Pune. I build software solutions using **Python, Java, C**, and web technologies, with a focus on applying **Data Structures & Algorithms**, IoT systems, and AI-driven tools to solve real-world engineering problems.
 
 - 🎓 Pursuing **B.E. in Computer Software Engineering** at TCOER, Pune
-- 🤖 Passionate about **AI chatbot integration**, data analysis, and academic data processing
+- 🔧 Hands-on experience with **DSA**, OOP, and low-level programming in C and Java
+- 🤖 Experienced in **AI chatbot integration** and building data-processing pipelines
+- 📡 Built and deployed an **IoT-based environmental monitoring system** (Aqua Guard)
 - 🏆 National-level **hackathon participant** and multi-time **intra-college hackathon winner**
 - 🎪 Coordinated **technical events with 120+ participants** at college fests
 - 📜 Earned **50+ certificates** in hackathons, debates, and event coordination
 
 ### 💻 What I Do
-- 🌐 Full Stack Web Development (HTML, CSS, JavaScript)
-- 🤖 AI-powered application development & chatbot integration
-- 🌿 IoT system design and sensor data analysis
-- 🏗️ Data structures, algorithms, and system design
-- 🤝 Team leadership, event coordination & mentoring
+- 🧮 Implementing core **Data Structures & Algorithms** in Java, Python, and C
+- 🌐 Web Development with HTML, CSS, and JavaScript
+- 🤖 AI-powered application development & chatbot API integration
+- 📡 IoT system design — sensor interfacing, data pipelines, and real-time monitoring dashboards
+- 🔬 Problem-solving through competitive programming and hackathons
 
 ### 🚀 Interests
-- 🧠 Artificial Intelligence & Machine Learning
-- 📡 Internet of Things (IoT)
-- 🏆 Competitive programming & hackathons
-- 🔬 Research-oriented and problem-solving based development
-- 📚 Teaching and mentoring peers
+- 🧠 Artificial Intelligence & AI-driven solution design
+- 📡 Internet of Things (IoT) & embedded systems
+- 🏆 Competitive programming, DSA, and hackathons
+- 💡 Software development with clean architecture and design principles
+- 📚 Peer mentoring and knowledge sharing
 
 ### 📌 Philosophy
 > *"Build with purpose. Learn continuously. Solve meaningfully."*
@@ -79,19 +87,48 @@ I'm **Prachi Shelake**, a Computer Engineering student at Trinity College of Eng
 
 <br>
 
-## 🚀 Projects
+## 🚀 Projects & Repositories
+
+### 📡 Aqua Guard — IoT-Based Environmental Monitoring System
+[![Repo](https://img.shields.io/badge/GitHub-AquaGuard-00979D?style=flat-square&logo=github)](https://github.com/prachishelake1312)
+- Architected an **end-to-end IoT pipeline** to monitor real-time water quality parameters: pH, turbidity, temperature, humidity, TDS (Total Dissolved Solids), and mineral levels.
+- Integrated multi-sensor data acquisition with a continuous processing pipeline that classifies water as **Safe / Unsafe** against WHO and BIS regulatory thresholds.
+- Developed a **real-time monitoring dashboard** with automated threshold-breach alerts, enabling proactive environmental safety management.
+- Applied statistical data analysis to detect anomalies and trends in water quality readings, improving prediction reliability.
+- **Tech Stack:** IoT Sensors · Arduino · Python · Data Analysis · Dashboard UI
+
+### 🐍 Snake and Ladder Game — DSA Implementation
+[![Repo](https://img.shields.io/badge/GitHub-Snake--and--Ladder-F7DF1E?style=flat-square&logo=github)](https://github.com/prachishelake1312)
+- Implemented the classic Snake and Ladder game in **Java** using core **Data Structures** — leveraging queues, hashmaps, and graph traversal concepts for game state management.
+- Designed modular, object-oriented architecture with clearly defined classes for Board, Player, Snake, and Ladder entities.
+- Focused on clean code principles, algorithmic efficiency, and demonstrating practical DSA application.
+- **Tech Stack:** Java · OOP · Data Structures · Algorithms
 
 ### 🤖 AI-Powered Student Mentorship & Academic Analysis Platform
-- Designed and developed a full-stack web application that **analyzes student academic performance** and delivers personalized career and study guidance via AI chatbot integration.
-- Implemented a data ingestion pipeline to process academic records and surface actionable insights for students and mentors.
-- Built responsive front-end using **HTML, CSS, and JavaScript**; integrated AI APIs for real-time mentorship recommendations.
-- Developed end-to-end during a competitive hackathon — from ideation to working prototype.
+[![Repo](https://img.shields.io/badge/GitHub-AI--Mentorship-412991?style=flat-square&logo=github)](https://github.com/prachishelake1312)
+- Developed a full-stack web application that ingests student academic records and delivers **AI-driven personalized career and study guidance** via chatbot API integration.
+- Built a **data processing pipeline** to parse and analyze academic performance data, surfacing actionable insights for students and mentors.
+- Constructed a responsive front-end interface using **HTML, CSS, and JavaScript** with real-time AI API calls.
+- Developed end-to-end in a competitive hackathon environment — ideation → architecture → working prototype.
+- **Tech Stack:** HTML · CSS · JavaScript · AI/Chatbot APIs · Data Processing
 
-### 🌿 IoT-Based Water Quality Monitoring System
-- Designed and developed an IoT system to **monitor real-time water quality** by measuring pH, turbidity, temperature, minerals, humidity, and TDS.
-- Integrated a sensor data pipeline to continuously collect, process, and classify water as **Safe or Unsafe** based on WHO and BIS safety thresholds.
-- Built a **dashboard interface** to visualize live sensor data and trigger automated alerts when parameters exceed safe limits.
-- Applied data analysis techniques to identify patterns and anomalies in water quality data, improving reliability of safety predictions.
+### ☕ Java Programming
+[![Repo](https://img.shields.io/badge/GitHub-Java--Programming-ED8B00?style=flat-square&logo=github&logoColor=white)](https://github.com/prachishelake1312)
+- Collection of Java programs covering **OOP concepts** (inheritance, polymorphism, encapsulation, abstraction), exception handling, collections framework, and file I/O.
+- Includes implementations of common algorithms and design patterns in Java.
+- **Tech Stack:** Java · OOP · Collections · Algorithms
+
+### 🧮 Data Structures
+[![Repo](https://img.shields.io/badge/GitHub-Data--Structures-3670A0?style=flat-square&logo=github&logoColor=white)](https://github.com/prachishelake1312)
+- Hands-on implementations of core data structures: **Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, HashMaps**, and Sorting/Searching algorithms.
+- Written in Python and Java with time/space complexity annotations for each implementation.
+- **Tech Stack:** Python · Java · Algorithms · Complexity Analysis
+
+### 🔵 C Programming
+[![Repo](https://img.shields.io/badge/GitHub-C--Programming-00599C?style=flat-square&logo=github&logoColor=white)](https://github.com/prachishelake1312)
+- Foundational C programs covering pointers, memory management, file handling, structs, and low-level system concepts.
+- Serves as a reference for understanding memory models and systems-level programming fundamentals.
+- **Tech Stack:** C · Pointers · Memory Management · Systems Programming
 
 ---
 
@@ -124,11 +161,11 @@ Bachelor of Engineering – Computer Software Engineering
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachishelake&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prachishelake1312&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prachishelake&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=prachishelake1312&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachishelake&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachishelake1312&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
@@ -136,5 +173,4 @@ Bachelor of Engineering – Computer Software Engineering
 ---
 
 <div align="center">
-  <i>"Build with purpose. Learn continuously. Solve meaningfully." 🚀<br>Let's build something amazing together!</i>
-</div>
+  <i>"Build with purpose. Learn continuously. Solve meaningfully." 🚀<br>L
