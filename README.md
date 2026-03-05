@@ -160,15 +160,11 @@ Bachelor of Engineering – Computer Software Engineering
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachishelake1312&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prachishelake1312&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachishelake1312&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
-
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachishelake1312&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachishelake1312&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachishelake1312&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
